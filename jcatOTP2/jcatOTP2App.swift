@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct jcatOTP2App: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
+struct jcatOTP2App: App
+{
+	var body: some Scene {
+		WindowGroup {
+			ContentView()
+		}
+	}
 }
